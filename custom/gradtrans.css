@@ -1,0 +1,31 @@
+@import 'common-one.css';
+@import 'common-two.css';
+
+body
+ {
+	 background: url('../bg/main.jpg') fixed no-repeat;
+	 background-size: cover;
+  }
+
+ .box
+  {
+	  position: relative;
+	  z-index: 1;
+	  background-color: white;
+	  opacity: 0.85;
+
+	  top: 0;
+	  left: 0;
+	  height: 96%;
+  }
+
+
+.fit
+ {
+	 display: none;
+	  }
+
+	 #geo-expand
+	  {
+		  max-height: 88vh;
+	  }

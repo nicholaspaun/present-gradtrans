@@ -1,0 +1,84 @@
+@font-face
+ {
+	font-family: "Computer Modern";
+	src: url('computer-modern.otf');
+ }
+
+*
+ {
+	font-family: "Computer Modern";
+ }
+
+.slide
+ {
+	 overflow-y: hidden;
+ }
+
+.slide h1
+ {
+	 font-size: 140% !important;
+	 width: 80vw;
+	 text-align: center;
+	 padding: 0 !important;
+	 margin: auto auto 3% !important;
+ }
+
+.expand-image
+ {
+	 text-align: center;
+ }
+
+.expand-image img
+ {
+	 text-align: center;
+	 max-height: 80vh;
+	 max-width: 99%;
+	 margin: auto;
+ }
+
+.center-image, .center-image img
+ {
+	 text-align: center;
+ }
+
+.center-image img
+ {
+	 max-height: 60vh;
+	 max-width: 99%;
+ }
+
+.imageset
+ {
+  width: 95%;
+  margin: auto;
+  text-align: center;
+ }
+
+.imageset div
+ {
+	 float: left;
+	 width: 25%;
+ }
+
+.imageset img
+ {
+	 width: 95%;
+ }
+
+blockquote
+ {
+	 font-style: normal;
+	 font-size: 160%;
+	 line-height: 1.1em;
+	 margin-top: 20%;
+	 margin-bottom: 0;
+	 margin-left: auto;
+	 margin-right: auto;
+	 width: 85%;
+ }
+
+cite
+ {
+	 margin-top: 0;
+	 margin-left: 20%;
+ }

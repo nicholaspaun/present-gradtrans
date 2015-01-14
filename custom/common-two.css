@@ -1,0 +1,41 @@
+.box
+ {
+	 border: 5px solid rgba(0, 0, 0, 0.3);
+	 border-radius: 10px;
+	 width: 85vw;
+	 margin: auto;
+	 background-clip: content-box;
+  }
+
+ .box:before
+  {
+	  border-radius: 10px;
+   }
+
+  .cover h1
+   {
+	   font-size: 325% !important;
+	   color: white;
+   }
+  .cover
+   {
+	   text-align: center;
+   }
+
+  .cover img
+   {
+	   text-align: center;
+   }
+
+h1.bigtext
+ {
+	 font-size: 400% !important;
+	margin-top: 20% !important;
+ }
+
+h2.bigtext
+ {
+	 font-size: 200%;
+	 margin-top: 20% !important;
+	 text-align: center;
+ }
