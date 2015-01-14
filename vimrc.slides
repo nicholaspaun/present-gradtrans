@@ -1,0 +1,3 @@
+ab sil <div class="slide">	<div class="box">	<h1></h1><div class="expand-image">	<img src="images/.jpg" /></div></div></div>
+ab scl <div class="slide">	<div class="box">	<h1></h1><div class="center-image">	<img src="images/.jpg" /></div><ul class="incremental">	<li></li></ul></div></div>
+ab sll <div class="slide">	<div class="box">	<h1></h1><ul class="incremental">	<li></li></ul></div></div>
